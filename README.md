@@ -14,11 +14,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122046-15d4cfc2-3db8-42a3-888c-31d431b44325.gif" width="35" /> About Me
-
-<table>
-<tr>
-<td width="60%">
+## About Me
 
 - Currently building **enterprise-grade full-stack platforms** and **AI-powered chatbots**
 - **B.Sc (Hons)** in Business Computing & Information Systems — *University of Central Lancashire*
@@ -29,26 +25,13 @@
 - Reach me at **Shtet123@gmail.com**
 - Portfolio: [swanhtetnaing.primestacks.cc](https://swanhtetnaing.primestacks.cc)
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216120253-912a08e2-72dd-4050-b393-e15b7ab6e963.gif" width="300" alt="Coding GIF" />
-
-</td>
-</tr>
-</table>
-
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122023-b84bd3c2-82d0-4355-a7b5-3561908d4434.gif" width="35" /> Featured Projects
+## Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### AGD Loge — Unified Messaging Gateway
-`Enterprise` `Mar 2025 – Jun 2026`
+<details>
+<summary><strong>AGD Loge — Unified Messaging Gateway</strong> <code>Enterprise</code> <code>Mar 2025 – Jun 2026</code></summary>
+<br/>
 
 Enterprise omnichannel SMS & Email platform for AGD Bank, handling 4 Myanmar telecom operators (MPT, ATOM, MyTel, MEC). 8-microservice architecture with bulk campaign engine, Keycloak SSO, and real-time WebSocket dashboard.
 
@@ -59,11 +42,11 @@ Enterprise omnichannel SMS & Email platform for AGD Bank, handling 4 Myanmar tel
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-<td width="50%">
+</details>
 
-### TGIP LMS — Learning Management System
-`Freelance` `May 2026 – Jul 2026`
+<details>
+<summary><strong>TGIP LMS — Learning Management System</strong> <code>Freelance</code> <code>May 2026 – Jul 2026</code></summary>
+<br/>
 
 Full-stack multi-portal LMS (Admin/Teacher/Student) with 60+ DB tables, gamification engine, canvas-based certificate builder, SM-2 flashcard system, and real-time messaging.
 
@@ -74,13 +57,11 @@ Full-stack multi-portal LMS (Admin/Teacher/Student) with 60+ DB tables, gamifica
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</details>
 
-### Twinkle Hub — School Management Platform
-`Freelance` `Jan 2025 – Dec 2025`
+<details>
+<summary><strong>Twinkle Hub — School Management Platform</strong> <code>Freelance</code> <code>Jan 2025 – Dec 2025</code></summary>
+<br/>
 
 Full-stack education platform with 4 role-based portals, 5-level academic hierarchy, GPS-geofenced attendance, real-time messaging, payment tracking, and analytics dashboards.
 
@@ -91,11 +72,11 @@ Full-stack education platform with 4 role-based portals, 5-level academic hierar
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-</td>
-<td width="50%">
+</details>
 
-### CB Bank AI Dashboard — Teams Chatbot
-`AI / Chatbot` `Jun 2025 – Dec 2025`
+<details>
+<summary><strong>CB Bank AI Dashboard — Teams Chatbot</strong> <code>AI / Chatbot</code> <code>Jun 2025 – Dec 2025</code></summary>
+<br/>
 
 Enterprise AI assistant integrated into Microsoft Teams with OpenAI RAG pipeline, conversation monitoring, usage analytics, and cost tracking. Deployed as a Custom Engine Agent on Azure.
 
@@ -106,13 +87,11 @@ Enterprise AI assistant integrated into Microsoft Teams with OpenAI RAG pipeline
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Bot Framework](https://img.shields.io/badge/Bot_Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</details>
 
-### TG InnoPro Visa Platform
-`Freelance` `Oct 2025 – Apr 2026`
+<details>
+<summary><strong>TG InnoPro Visa Platform</strong> <code>Freelance</code> <code>Oct 2025 – Apr 2026</code></summary>
+<br/>
 
 4-component visa agency management system with 9-state application pipeline, AI chatbot with 3 personas (OpenAI + RAG), React Native mobile app (iOS & Android), and Meta Messenger integration.
 
@@ -123,29 +102,22 @@ Enterprise AI assistant integrated into Microsoft Teams with OpenAI RAG pipeline
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-</td>
-<td width="50%">
+</details>
 
-### BodyGuard Fitness App
-`Internship` `Jun 2023 – Nov 2023`
+<details>
+<summary><strong>BodyGuard Fitness App</strong> <code>Internship</code> <code>Jun 2023 – Nov 2023</code></summary>
+<br/>
 
 Subscription-based fitness mobile app with admin dashboard. Built during internship at Twinkle College — the project that started it all.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-</td>
-</tr>
-</table>
-</div>
+</details>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122067-357c3b96-0656-4bc1-8f8c-125a498321f1.gif" width="35" /> Tech Stack
-
-<table>
-<tr>
-<td width="50%">
+## Tech Stack
 
 **Frontend**
 
@@ -162,9 +134,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-</td>
-<td width="50%">
-
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -176,11 +145,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 **Mobile**
 
@@ -196,9 +160,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-</td>
-<td width="50%">
 
 **Cloud & DevOps**
 
@@ -217,11 +178,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![Microsoft SDK](https://img.shields.io/badge/Microsoft_SDK-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -232,9 +188,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Xiaomi Mimo](https://img.shields.io/badge/Xiaomi_Mimo-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-
-</td>
-<td width="50%">
 
 **Agentic AI Tools**
 
@@ -247,10 +200,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 ![Qoder](https://img.shields.io/badge/Qoder-6366F1?style=flat-square&logo=qoder&logoColor=white)
 ![Code Buddy](https://img.shields.io/badge/Code_Buddy-FF6B35?style=flat-square&logo=codebuddy&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
@@ -261,7 +210,7 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120432-16b7f463-b224-4660-9544-a7d489b9b6b9.gif" width="35" /> Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -278,8 +227,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 
 <div align="center">
 
-![Wave](https://user-images.githubusercontent.com/74038190/216120465-056e4c9c-b8d2-4783-9e47-495e3599ac6e.gif)
-
-<sub>Copyright © 2026 Swan Htet Naing. All Rights Reserved.</sub>
+<sub>Copyright &copy; 2026 Swan Htet Naing. All Rights Reserved.</sub>
 
 </div>
