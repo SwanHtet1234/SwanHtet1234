@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Swan Htet Naing 👋</h1>
+<h1 align="center">Hey there, I'm Swan Htet Naing</h1>
 
 <h3 align="center">Full-Stack Developer | Project Manager | AI Enthusiast</h3>
 
@@ -19,32 +19,32 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🔭 Currently building **enterprise-grade full-stack platforms** and **AI-powered chatbots**
-- 🎓 B.Sc (Hons) in Business Computing & Information Systems — University of Central Lancashire
-- 💼 Project Manager & Full-Stack Developer at **U-Tech Solutions Myanmar**
-- 📚 NCC Lecturer at **Twinkle College** — Software Development, Web Development & Project Management
-- 🤖 Passionate about **AI/ML integrations**, **real-time systems**, and **microservice architectures**
-- 💬 Ask me about **React, Node.js, NestJS, Laravel, Kotlin, Prisma, Docker, or AI Agents**
-- 📫 Reach me at **Shtet123@gmail.com**
-- 🌐 Portfolio: [swanhtet1234.github.io](https://swanhtet1234.github.io)
+- Currently building **enterprise-grade full-stack platforms** and **AI-powered chatbots**
+- B.Sc (Hons) in Business Computing & Information Systems — University of Central Lancashire
+- Project Manager & Full-Stack Developer at **U-Tech Solutions Myanmar**
+- NCC Lecturer at **Twinkle College** — Software Development, Web Development & Project Management
+- Passionate about **AI/ML integrations**, **real-time systems**, and **microservice architectures**
+- Ask me about **React, Node.js, NestJS, Laravel, Kotlin, Prisma, Docker, or AI Agents**
+- Reach me at **Shtet123@gmail.com**
+- Portfolio: [swanhtet1234.github.io](https://swanhtet1234.github.io)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏢 AGD Loge — Unified Messaging Gateway</h3>
+      <h3>AGD Loge — Unified Messaging Gateway</h3>
       <p>Enterprise omnichannel SMS & Email platform for AGD Bank, handling 4 Myanmar telecom operators (MPT, ATOM, MyTel, MEC). 8-microservice architecture with bulk campaign engine, Keycloak SSO, and real-time WebSocket dashboard.</p>
       <p>
         <code>Kotlin</code> <code>Spring Boot</code> <code>Node.js</code> <code>React</code> <code>RabbitMQ</code> <code>Docker</code>
       </p>
     </td>
     <td width="50%">
-      <h3>🎓 TGIP LMS — Learning Management System</h3>
+      <h3>TGIP LMS — Learning Management System</h3>
       <p>Full-stack multi-portal LMS (Admin/Teacher/Student) with 60+ DB tables, gamification engine, canvas-based certificate builder, SM-2 flashcard system, and real-time messaging.</p>
       <p>
         <code>NestJS</code> <code>Prisma</code> <code>React 19</code> <code>MySQL</code> <code>Redis</code> <code>Socket.IO</code>
@@ -53,14 +53,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏫 Twinkle Hub — School Management Platform</h3>
+      <h3>Twinkle Hub — School Management Platform</h3>
       <p>Full-stack education platform with 4 role-based portals, 5-level academic hierarchy, GPS-geofenced attendance, real-time messaging, payment tracking, and analytics dashboards.</p>
       <p>
         <code>React 19</code> <code>TypeScript</code> <code>Express 5</code> <code>MySQL</code> <code>Redis</code> <code>Socket.IO</code>
       </p>
     </td>
     <td width="50%">
-      <h3>🤖 CB Bank AI Dashboard — Teams Chatbot</h3>
+      <h3>CB Bank AI Dashboard — Teams Chatbot</h3>
       <p>Enterprise AI assistant integrated into Microsoft Teams with OpenAI RAG pipeline, conversation monitoring, usage analytics, and cost tracking. Deployed as a Custom Engine Agent on Azure.</p>
       <p>
         <code>Node.js</code> <code>OpenAI</code> <code>Laravel</code> <code>React</code> <code>Azure</code> <code>Microsoft Agents SDK</code>
@@ -69,14 +69,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>✈️ TG InnoPro Visa Platform</h3>
+      <h3>TG InnoPro Visa Platform</h3>
       <p>4-component visa agency management system with 9-state application pipeline, AI chatbot with 3 personas (OpenAI + RAG), React Native mobile app (iOS & Android), and Meta Messenger integration.</p>
       <p>
         <code>Node.js</code> <code>Prisma</code> <code>React</code> <code>React Native</code> <code>OpenAI</code> <code>Expo</code>
       </p>
     </td>
     <td width="50%">
-      <h3>💪 BodyGuard Fitness App</h3>
+      <h3>BodyGuard Fitness App</h3>
       <p>Subscription-based fitness mobile app with admin dashboard. Built during internship at Twinkle College — the project that started it all.</p>
       <p>
         <code>React</code> <code>Node.js</code>
@@ -87,7 +87,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <strong>Frontend</strong><br/>
@@ -181,28 +181,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swanhtet1234&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swanhtet1234&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanhtet1234&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swanhtet1234&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="mailto:Shtet123@gmail.com">
