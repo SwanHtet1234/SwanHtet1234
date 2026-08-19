@@ -253,8 +253,6 @@ Subscription-based fitness mobile app with admin dashboard. Built during interns
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120417-b016dda1-3e7a-4e07-8207-3d9c49c0e41e.gif" width="35" /> What I'm Working On
-
 <div align="center">
 
 <img src="./gradient-banner.svg" alt="What I'm Working On" width="100%" />
