@@ -18,7 +18,6 @@
 
 - Currently building **enterprise-grade full-stack platforms** and **AI-powered chatbots**
 - **B.Sc (Hons)** in Business Computing & Information Systems — *University of Central Lancashire*
-- Project Manager & Full-Stack Developer at **U-Tech Solutions Myanmar**
 - NCC Lecturer at **Twinkle College** — Software Development, Web Development & Project Management
 - Passionate about **AI/ML integrations**, **real-time systems**, and **microservice architectures**
 - Ask me about **React, Node.js, NestJS, Laravel, Kotlin, Prisma, Docker, or AI Agents**
